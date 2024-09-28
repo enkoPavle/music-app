@@ -1,0 +1,79 @@
+{
+  "header": {
+    "Back": "Back"
+  },
+  "selectCountry": {
+    "Hi there": "Hi there",
+    "Discover your favorite tunes, create playlists, and immerse yourself in the world of music": "Discover your favorite tunes, create playlists, and immerse yourself in the world of music",
+    "Please select your country:": "Please select your country:",
+    "Select a country": "Select a country",
+    "SELECT": "SELECT"
+  },
+  "selectLanguage": {
+    "Hi there": "Hi there",
+    "Discover your favorite tunes, create playlists, and immerse yourself in the world of music": "Discover your favorite tunes, create playlists, and immerse yourself in the world of music",
+    "Please select language:": "Please select language:",
+    "PLAY": "PLAY",
+    "SELECT": "SELECT"
+  },
+  "spotifyMode": {
+    "Spotify Premium?": "Spotify Premium?",
+    "Do you have Spotify Premium account?": "Do you have Spotify Premium account?",
+    "NO": "NO",
+    "or": "or",
+    "LOGIN SPOTIFY PREMIUM": "LOGIN SPOTIFY PREMIUM"
+  },
+  "spotifyConnect": {
+    "Connect with Spotify": "Connect\nwith Spotify",
+    "Start exploring now and let the melodies take you on a journey!": "Start exploring now and let the melodies take you on a journey!",
+    "CONNECT": "CONNECT"
+  },
+  "home": {
+    "Let’s Play": "Let’s Play",
+    "Start exploring now and let the melodies take you on a journey!": "Start exploring now and let the melodies take you on a journey!",
+    "START A GAME": "START A GAME",
+    "RANDOM CARD": "RANDOM CARD",
+    "or": "or",
+    "READ RULES": "READ RULES"
+  },
+  "aware": {
+    "Be aware!": "Be aware!",
+    "The Music App app required an internet connection to stream music to your mobile device. Be sure to use a secure Wi-Fi connection to avoid addition charges from your provider.": "The Music App app required an internet connection to stream music to your mobile device. Be sure to use a secure Wi-Fi connection to avoid addition charges from your provider.",
+    "I understand": "I understand"
+  },
+  "settings": {
+    "Settings": "Settings",
+    "The Music App app is currently set to Spotify": "The Music App app is currently set to Spotify {{mode}}",
+    "Premium": "Premium",
+    "Free": "Free",
+    "Change Spotify Mode": "Change Spotify Mode"
+  },
+  "player": {
+    "Listen to the full song on Spotify": "Listen to the full song on Spotify",
+    "Dear user": "Dear user",
+    "noPreviewText": "Find and play the song {{name}}"
+  },
+  "randomCard": {
+    "Your card number is": "Your card number is",
+    "Scan QR code": "Scan QR code"
+  },
+  "scanner": {
+    "Loading": "Loading",
+    "Be aware!": "Be aware!",
+    "The Music App app needs access to the camera to continue scanning QR codes from our game cards": "The Music App app needs access to the camera to continue scanning QR codes from our game cards",
+    "The Music App app needs access to the camera to continue scanning QR codes from our game cards. To enable camera access, please adjust your settings": "The Music App app needs access to the camera to continue scanning QR codes from our game cards. To enable camera access, please adjust your settings",
+    "Request permission": "Request permission",
+    "Open settings": "Open settings"
+  },
+  "rules": {
+    "Rules": "Rules",
+    "Certainly! Here are some fun and engaging rules for your music game app:": "Certainly! Here are some fun and engaging rules for your music game app:",
+    "Rhythm Challenge: Players must tap along to the beat of the music. The better their timing, the higher their score! 🎵🎮": "Rhythm Challenge: Players must tap along to the beat of the music. The better their timing, the higher their score! 🎵🎮",
+    "Genre Quest: Each day, players explore a different music genre. They earn points by correctly identifying songs and artists. From classical to hip-hop, it’s a musical adventure! 🌟🎶": "Genre Quest: Each day, players explore a different music genre. They earn points by correctly identifying songs and artists. From classical to hip-hop, it’s a musical adventure! 🌟🎶",
+    "Lyric Puzzles: Unscramble jumbled lyrics to reveal famous songs. The faster they solve, the more points they earn. Sing along as they play! 🧩🎤": "Lyric Puzzles: Unscramble jumbled lyrics to reveal famous songs. The faster they solve, the more points they earn. Sing along as they play! 🧩🎤",
+    "Collaborative Jams: Players team up with friends to create virtual bands. They choose instruments, compose original tunes, and perform in virtual concerts. 🎸🥁": "Collaborative Jams: Players team up with friends to create virtual bands. They choose instruments, compose original tunes, and perform in virtual concerts. 🎸🥁",
+    "Music Trivia Showdown: Daily trivia battles! Players compete against others, answering questions about music history, artists, and album covers. 🎵🏆": "Music Trivia Showdown: Daily trivia battles! Players compete against others, answering questions about music history, artists, and album covers. 🎵🏆",
+    "Unlock the Playlist: As players progress, they unlock exclusive playlists. From “Chill Vibes” to “Epic Anthems,” there’s something for every mood. 🎧🔓": "Unlock the Playlist: As players progress, they unlock exclusive playlists. From “Chill Vibes” to “Epic Anthems,” there’s something for every mood. 🎧🔓",
+    "Remember, the key is to make it interactive, rewarding, and full of musical joy! Let the rhythm guide your players through an unforgettable experience.": "Remember, the key is to make it interactive, rewarding, and full of musical joy! Let the rhythm guide your players through an unforgettable experience."
+  }
+}

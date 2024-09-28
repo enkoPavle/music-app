@@ -1,0 +1,79 @@
+{
+  "header": {
+    "Back": "Zurück"
+  },
+  "selectCountry": {
+    "Hi there": "Hallo",
+    "Discover your favorite tunes, create playlists, and immerse yourself in the world of music": "Entdecke deine Lieblingssongs, erstelle Playlists und tauche ein in die Welt der Musik",
+    "Please select your country:": "Bitte wähle dein Land:",
+    "Select a country": "Wähle ein Land",
+    "SELECT": "AUSWÄHLEN"
+  },
+  "selectLanguage": {
+    "Hi there": "Hallo",
+    "Discover your favorite tunes, create playlists, and immerse yourself in the world of music": "Entdecke deine Lieblingssongs, erstelle Playlists und tauche ein in die Welt der Musik",
+    "Please select language:": "Bitte wähle eine Sprache:",
+    "PLAY": "SPIELEN",
+    "SELECT": "AUSWÄHLEN"
+  },
+  "spotifyMode": {
+    "Spotify Premium?": "Spotify Premium?",
+    "Do you have Spotify Premium account?": "Hast du ein Spotify Premium-Konto?",
+    "NO": "NEIN",
+    "or": "oder",
+    "LOGIN SPOTIFY PREMIUM": "SPOTIFY PREMIUM EINLOGGEN"
+  },
+  "spotifyConnect": {
+    "Connect with Spotify": "Verbinden Sie sich mit Spotify",
+    "Start exploring now and let the melodies take you on a journey!": "Starte jetzt die Erkundung und lass dich von den Melodien auf eine Reise mitnehmen!",
+    "CONNECT": "VERBINDEN"
+  },
+  "home": {
+    "Let’s Play": "Los geht's",
+    "Start exploring now and let the melodies take you on a journey!": "Starte jetzt die Erkundung und lass dich von den Melodien auf eine Reise mitnehmen!",
+    "START A GAME": "SPIEL STARTEN",
+    "RANDOM CARD": "ZUFÄLLIGE KARTE",
+    "or": "oder",
+    "READ RULES": "REGELN LESEN"
+  },
+  "aware": {
+    "Be aware!": "Sei aufmerksam!",
+    "The Music App app required an internet connection to stream music to your mobile device. Be sure to use a secure Wi-Fi connection to avoid addition charges from your provider.": "Die Music App-App benötigt eine Internetverbindung, um Musik auf dein Mobilgerät zu streamen. Stelle sicher, dass du eine sichere WLAN-Verbindung verwendest, um zusätzliche Kosten von deinem Anbieter zu vermeiden.",
+    "I understand": "Ich verstehe"
+  },
+  "player": {
+    "Listen to the full song on Spotify": "Liest die komplette Melodie auf Spotify",
+    "Dear user": "Sehr geehrter Benutzer",
+    "noPreviewText": "Suche und spiele das Lied {{name}}"
+  },
+  "settings": {
+    "Settings": "Einstellungen",
+    "The Music App app is currently set to Spotify": "Die Music App-App ist derzeit auf Spotify {{mode}} eingestellt",
+    "Premium": "Prämie",
+    "Free": "Kostenlos",
+    "Change Spotify Mode": "Spotify-Modus ändern"
+  },
+  "randomCard": {
+    "Your card number is": "Deine Kartennummer lautet",
+    "Scan QR code": "QR-Code scannen"
+  },
+  "scanner": {
+    "Loading": "Wird geladen",
+    "Be aware!": "Sei aufmerksam!",
+    "The Music App app needs access to the camera to continue scanning QR codes from our game cards": "Die Music App-App benötigt Zugriff auf die Kamera, um weiterhin QR-Codes von unseren Spielkarten scannen zu können",
+    "The Music App app needs access to the camera to continue scanning QR codes from our game cards. To enable camera access, please adjust your settings": "Die Music App-App benötigt Zugriff auf die Kamera, um weiterhin QR-Codes von unseren Spielkarten scannen zu können. Um den Kamerazugriff zu aktivieren, passen Sie bitte Ihre Einstellungen an",
+    "Request permission": "Berechtigung anfordern",
+    "Open settings": "Einstellungen öffnen"
+  },
+  "rules": {
+    "Rules": "Regeln",
+    "Certainly! Here are some fun and engaging rules for your music game app:": "Natürlich! Hier sind einige unterhaltsame und fesselnde Regeln für deine Musikspiel-App:",
+    "Rhythm Challenge: Players must tap along to the beat of the music. The better their timing, the higher their score! 🎵🎮": "Rhythmus-Herausforderung: Die Spieler müssen im Takt der Musik tippen. Je besser ihr Timing, desto höher ihre Punktzahl! 🎵🎮",
+    "Genre Quest: Each day, players explore a different music genre. They earn points by correctly identifying songs and artists. From classical to hip-hop, it’s a musical adventure! 🌟🎶": "Genre-Quest: Jeden Tag erkunden die Spieler ein anderes Musikgenre. Sie verdienen Punkte, indem sie Songs und Künstler richtig identifizieren. Von Klassik bis Hip-Hop ist es ein musikalisches Abenteuer! 🌟🎶",
+    "Lyric Puzzles: Unscramble jumbled lyrics to reveal famous songs. The faster they solve, the more points they earn. Sing along as they play! 🧩🎤": "Lyrik-Puzzles: Entschlüssle verwirrte Texte, um berühmte Songs zu enthüllen. Je schneller sie lösen, desto mehr Punkte verdienen sie. Singe mit, während sie spielen! 🧩🎤",
+    "Collaborative Jams: Players team up with friends to create virtual bands. They choose instruments, compose original tunes, and perform in virtual concerts. 🎸🥁": "Kollaborative Jams: Spieler schließen sich mit Freunden zusammen, um virtuelle Bands zu gründen. Sie wählen Instrumente, komponieren eigene Melodien und treten in virtuellen Konzerten auf. 🎸🥁",
+    "Music Trivia Showdown: Daily trivia battles! Players compete against others, answering questions about music history, artists, and album covers. 🎵🏆": "Musik-Trivia-Duell: Tägliche Wissensduelle! Spieler treten gegeneinander an und beantworten Fragen zur Musikgeschichte, Künstlern und Albumcovern. 🎵🏆",
+    "Unlock the Playlist: As players progress, they unlock exclusive playlists. From “Chill Vibes” to “Epic Anthems,” there’s something for every mood. 🎧🔓": "Playlist freischalten: Spieler schalten exklusive Playlists frei, während sie voranschreiten. Von “Chill Vibes“ bis “Epic Anthems“ ist für jede Stimmung etwas dabei. 🎧🔓",
+    "Remember, the key is to make it interactive, rewarding, and full of musical joy! Let the rhythm guide your players through an unforgettable experience.": "Denke daran, der Schlüssel ist, es interaktiv, belohnend und voller musikalischer Freude zu gestalten! Lass den Rhythmus deine Spieler durch ein unvergessliches Erlebnis führen."
+  }
+}
